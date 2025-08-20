@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Katta&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKumar-Katta&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rsm09&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsm09&theme=tokyonight" width="48%" />
 </p>
 
 ---
