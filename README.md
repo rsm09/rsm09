@@ -1,8 +1,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhlNDB5bHdmaXFpb2d1M3Iza3F5dWJzZm9rYXV0ZWZsaWljem5yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="header gif" width="1000px" height="300px" />
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Rohit Magar</h1>
-
-<h3 align="center">💻 Full Stack Developer | 🛠 MERN Stack | 🧠 DSA Enthusiast </h3>
+<h1 align="center">Hi, I'm Rohit Magar 👨‍💻</h1>
+<h3 align="center">Full Stack Developer (MERN) | DSA Learner</h3>
 
 ---
 
